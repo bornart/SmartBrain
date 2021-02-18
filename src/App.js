@@ -12,7 +12,7 @@ import Particles from 'react-particles-js';
 import Clarifai from 'clarifai';
 
 const app = new Clarifai.App({
-  apiKey: '78a2e025bc2845798c5699bf68996711'
+  apiKey: ''
 });
 
 //https://samples.clarifai.com/face-det.jpg
